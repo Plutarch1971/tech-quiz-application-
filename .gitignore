@@ -1,0 +1,127 @@
+# IDE and Editor Files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Compiled Source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Logs and Databases
+*.log
+*.sql
+*.sqlite
+*.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+venv/
+.env
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+htmlcov/
+.hypothesis/
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+.pnp/
+.pnp.js
+
+# JavaScript
+dist/
+build/
+*.map
+
+# React
+.next/
+out/
+.nuxt
+.vercel
+
+# TypeScript
+*.tsbuildinfo
+
+# Java
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+.gradle/
+build/
+target/
+
+# Ruby
+*.gem
+*.rbc
+/.config
+/coverage/
+/InstalledFiles
+/pkg/
+/spec/reports/
+/test/tmp/
+/test/version_tmp/
+/tmp/
+
+# Rust
+debug/
+target/
+
+# Go
+*.mod
+*.sum
+*.out
+
+# Environment and Secret Files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+secrets.yml
+*.pem
+
+# Dependency Directories
+bower_components/
+jspm_packages/
+
+# Backup Files
+*.bak
+*.gho
+*.ori
+*.orig
+*.tmp
+
+# Miscellaneous
+.history/
+.ionide/
+.vs/
