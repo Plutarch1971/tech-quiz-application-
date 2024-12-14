@@ -27,14 +27,14 @@
       ]
     },
     {
-      "question": "Which of the following is used to create an empty set?",
-      "answers": [
-        { "text": "{}", "isCorrect": false },
-        { "text": "[]", "isCorrect": false },
-        { "text": "set()", "isCorrect": true },
-        { "text": "()", "isCorrect": false }
-      ]
-    },
+        "question": "Which of the following is used to create an empty set?",
+        "answers": [
+          { "text": "{}", "isCorrect": false },
+          { "text": "[]", "isCorrect": false },
+          { "text": "set()", "isCorrect": true },
+          { "text": "()", "isCorrect": false }
+        ]
+      },
     {
       "question": "What is the output of len('hello world')?",
       "answers": [
