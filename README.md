@@ -2,7 +2,7 @@
 
 ## Description
 
-A full-stack web application that allows users to test their technical knowledge through an interactive quiz. Built using the MERN stack (MongoDB, Express.js, React, Node.js), this application presents users with 10 random technical questions and provides a final score.
+This is a full-stack web application that allows users to test their technical knowledge through an interactive quiz. Built using the MERN stack (MongoDB, Express.js, React, Node.js), this application presents users with 10 random technical questions and provides a final score.
 
 ## Features
 
@@ -27,7 +27,7 @@ git clone https://github.com/Plutarch1971/tech-quiz-application-.git
 cd tech-quiz-application
 ```
 
-## Install dependencies:
+### Install dependencies:
 #### Install root dependencies
 ```bash
 npm install
@@ -45,7 +45,7 @@ cd ../server
 npm install
 ```
 
-## Running the Application
+### Running the Application
 Development Mode
 
 ### Start server
@@ -67,35 +67,28 @@ npm run test
 ```
 
 ###  Test Types
-Component Tests
-Located in cypress/component/Quiz.cy.jsx
+Component Tests<br>
+Located in cypress/component
 
 Tests individual React component functionality
 Verifies component rendering and interactions
 
-End-to-End Tests
+End-to-End Tests<br>
 Located in cypress/e2e/quiz.cy.js
 
 Simulates complete user journey
 Validates application flow from start to finish
 
 ## Technologies 
-Frontend: React
-Backend: Node.js, Express.js
-Database: MongoDB
+Frontend: React<br>
+Backend: Node.js, Express.js<br>
+Database: MongoDB<br>
 Testing: Cypress
 
-Project Structure
-tech-quiz-application
-├── client/                 # React frontend
-├── server/                 # Express.js backend
-├── cypress/                # Cypress testing
-    ├── component/          # Component tests
-    └── e2e/                # End-to-end tests
-└── README.md
+
 
 ## Walkthrough Video
-[Insert Link to Walkthrough Video Demonstrating Application and Tests]
+https://youtu.be/5sMvZwwIHBc
 ## Contributing
 
 ### Fork the repository
@@ -118,5 +111,5 @@ Distributed under the MIT License. See LICENSE for more information.
 
 Contact
 Matthew Mendez   
-Email: matthewpmendez@gmail.com
+Email: matthewpmendez@gmail.com<br>
 Project Link: https://github.com/Plutarch1971/tech-quiz-application-.git
